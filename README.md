@@ -1,7 +1,7 @@
 # simple-plug-ins
-A simple plug-in application for students or those starting to get themselves familiar with python and javascript.
-I chose to utilize a command-line interface for the task to prioritize simplicity and ease of use. 
-The implemented code in JavaScript automatically registers all Python files as plugins, simplifying the process.
+A simple plug-in application for beginners who want to familiarize themselves with python and nodejs - javascript.
+I choose to utilize a command-line interface for the task to prioritize simplicity and ease of use. 
+By implementing the code in JavaScript, all Python files are automatically registered as plugins. This streamlines the entire process, making it simpler and easier to understand.
 
 # usage
 `nodejs calculator.js`
